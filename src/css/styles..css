@@ -1,0 +1,18 @@
+\*configuração gerais*/
+
+body{
+    padding: 0;
+    margin: 0;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-image: url("/STUDION/images/enterprise\ 1.png");
+    width: 99.9%;
+    height: 596px;
+}
